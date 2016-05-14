@@ -1,0 +1,44 @@
+{
+  "name": "eslint-config-gg",
+  "version": "1.0.0",
+  "description": "Grayscale Games JavaScript Style - ESLint Shareable Config",
+  "license": "ISC",
+  "author": "Matthew Douglass <matthew@douglass.email>",
+  "homepage": "https://github.com/mdouglass/eslint-config-gg",
+  "repository": "mdouglass/eslint-config-gg",
+  "bugs": "https://github.com/mdouglass/eslint-config-gg/issues",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "true",
+    "prepublish": "npm run lint && npm run test"
+  },
+  "devDependencies": {
+    "eslint": "2.10.0"
+  },
+  "keywords": [
+    "grayscale games",
+    "grayscale",
+    "games",
+    "style checker",
+    "code style",
+    "code checker",
+    "code linter",
+    "style linter",
+    "simple",
+    "policy",
+    "style",
+    "code",
+    "lint",
+    "eslint",
+    "eslintconfig",
+    "jshint",
+    "jscs",
+    "hint",
+    "enforce",
+    "check",
+    "verify",
+    "quality",
+    "checker"
+  ]
+}
