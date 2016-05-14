@@ -19,7 +19,6 @@ To use the Grayscale Games shareable config, first run this:
 
 ```bash
 npm install --save-dev eslint eslint-config-gg
-npm install --save-dev eslint-plugin-standard eslint-plugin-promise
 ```
 
 Then, add this to your `.eslintrc.json` file:
