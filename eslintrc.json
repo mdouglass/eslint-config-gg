@@ -184,7 +184,7 @@
     "no-self-assign": "error",
     "no-self-compare": "error",
     "no-sequences": "error",
-    "no-shadow": "error",
+    "no-shadow": [ "error", { "allow": [ "done", "cb", "resolve", "reject", "e", "err", "error" ] } ],
     "no-shadow-restricted-names": "error",
     "no-whitespace-before-property": "error",
     "no-spaced-func": "off",
