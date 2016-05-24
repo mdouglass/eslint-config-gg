@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-gg",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Grayscale Games JavaScript Style - ESLint Shareable Config",
   "license": "ISC",
   "author": "Matthew Douglass <matthew@douglass.email>",
